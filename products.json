@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Producto 1",
+      "description": "Descripción del producto 1.",
+      "price": 10.99,
+      "image": "https://acdn.mitiendanube.com/stores/001/245/791/products/7943da7b-7b1c-4279-b225-2a69b12d3ce6-32fe31b3d866225be316846301048164-50-0.webp"
+    },
+    {
+      "name": "Producto 2",
+      "description": "Descripción del producto 2.",
+      "price": 12.99,
+      "image": "https://acdn.mitiendanube.com/stores/001/245/791/products/7943da7b-7b1c-4279-b225-2a69b12d3ce6-32fe31b3d866225be316846301048164-50-0.webp"
+    },
+    {
+      "name": "Producto 3",
+      "description": "Descripción del producto 3.",
+      "price": 9.99,
+      "image": "https://acdn.mitiendanube.com/stores/001/245/791/products/7943da7b-7b1c-4279-b225-2a69b12d3ce6-32fe31b3d866225be316846301048164-50-0.webp"
+    },
+    {
+      "name": "Producto 4",
+      "description": "Descripción del producto 4.",
+      "price": 14.99,
+      "image": "https://acdn.mitiendanube.com/stores/001/245/791/products/7943da7b-7b1c-4279-b225-2a69b12d3ce6-32fe31b3d866225be316846301048164-50-0.webp"
+    }
+  ]
+  
